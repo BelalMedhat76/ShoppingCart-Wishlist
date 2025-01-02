@@ -1,4 +1,3 @@
-# ShoppingCart-Wishlist
 # React.js Vite Starter Project
 
 This is a modern React.js application powered by **Vite** for lightning-fast development and optimized production builds.
